@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/RealTimeDashboard.dll">
+      <publishTime>10/23/2012 13:12:44</publishTime>
+    </File>
+    <File Include="css/default.css">
+      <publishTime>10/08/2012 11:22:17</publishTime>
+    </File>
+    <File Include="css/jquery-ui-1.8.24.custom.css">
+      <publishTime>10/03/2012 11:24:47</publishTime>
+    </File>
+    <File Include="css/jquery.mCustomScrollbar.css">
+      <publishTime>10/03/2012 11:24:42</publishTime>
+    </File>
+    <File Include="Default.html">
+      <publishTime>10/08/2012 11:22:17</publishTime>
+    </File>
+    <File Include="js/default.js">
+      <publishTime>10/17/2012 15:10:55</publishTime>
+    </File>
+    <File Include="js/highcharts.js">
+      <publishTime>10/08/2012 11:22:18</publishTime>
+    </File>
+    <File Include="js/jquery-1.8.2.min.js">
+      <publishTime>10/03/2012 11:24:48</publishTime>
+    </File>
+    <File Include="js/jquery-ui-1.8.23.min.js">
+      <publishTime>10/08/2012 11:22:18</publishTime>
+    </File>
+    <File Include="js/jquery-ui-1.8.24.custom.min.js">
+      <publishTime>10/08/2012 11:22:18</publishTime>
+    </File>
+    <File Include="js/jquery.mCustomScrollbar.min.js">
+      <publishTime>10/03/2012 11:24:43</publishTime>
+    </File>
+    <File Include="js/jquery.mousewheel.min.js">
+      <publishTime>10/03/2012 11:24:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/23/2012 13:12:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

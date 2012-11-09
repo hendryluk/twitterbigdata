@@ -1,0 +1,5 @@
+C:\Users\andrmoll\Documents\Vu Project\Big Data Demo\TwitterCEP\RealTimeDashboard\bin\RealTimeDashboard.dll
+C:\Users\andrmoll\Documents\Vu Project\Big Data Demo\TwitterCEP\RealTimeDashboard\bin\RealTimeDashboard.pdb
+C:\Users\andrmoll\Documents\Vu Project\Big Data Demo\TwitterCEP\RealTimeDashboard\obj\Debug\StreamInsight.Demos.Twitter.RealTimeDashboard.csprojResolveAssemblyReference.cache
+C:\Users\andrmoll\Documents\Vu Project\Big Data Demo\TwitterCEP\RealTimeDashboard\obj\Debug\RealTimeDashboard.dll
+C:\Users\andrmoll\Documents\Vu Project\Big Data Demo\TwitterCEP\RealTimeDashboard\obj\Debug\RealTimeDashboard.pdb
