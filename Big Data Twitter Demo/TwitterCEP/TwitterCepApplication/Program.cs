@@ -16,13 +16,13 @@ namespace StreamInsight.Demos.Twitter.Client
         //static string _BYTOPIC = "ByTopic";
         //static string _TWEET = "Tweet";
         static int _WINDOW_LENGTH = 5;
-        
+
 
         static void Main(string[] args)
         {
             string instanceName = ConfigurationManager.AppSettings["instance_name"];
             string appName = "bigdatademo";
-            
+
             // CREATE new SERVER - this is only good for when running in embedded mode.
             Server cepServer = Server.Create(instanceName);
 
@@ -37,8 +37,8 @@ namespace StreamInsight.Demos.Twitter.Client
             // DEFINE new SOURCE, which is the Twitter Streaming API source
             TwitterConfig twitterConfig = ReadTwitterInputConfig();
             var twitterInput = cepApp.DefineStreamable<Tweet>(typeof(TwitterFactory), twitterConfig, EventShape.Point, null);
-            
-           
+
+
             // COMPOSE a QUERY on the Twitter source we just created.  
             var byTweetQuery = from tweet in twitterInput
                                select tweet;
@@ -68,7 +68,7 @@ namespace StreamInsight.Demos.Twitter.Client
 
             // DEFINE Azure Blob Storage SINK 
             var azureBlobSink = cepApp.DefineStreamableSink<Tweet>(typeof(AzureBlobFactory),
-                  GetAzureBlobStorageConfig(), EventShape.Point, StreamEventOrder.ChainOrdered);             
+                  GetAzureBlobStorageConfig(), EventShape.Point, StreamEventOrder.ChainOrdered);
 
             // DEFINE Web Socket SINK to real time dashboard for sending tweet details
             var byTweetDashboardSink = cepApp.DefineStreamableSink<Tweet>(typeof(WebSocketFactory),
@@ -182,14 +182,15 @@ namespace StreamInsight.Demos.Twitter.Client
             };
         }
 
-        private static FbConfig readFbConfig()
-        {
-         AccessToken 
-         UsernameOrUniqueId 
-         Timeout  
-         RefreshPeriod 
-            return new readFbConfig();
+        //    private static FbConfig readFbConfig()
+        //    {
+        //     AccessToken 
+        //     UsernameOrUniqueId 
+        //     Timeout  
+        //     RefreshPeriod 
+        //        return new readFbConfig();
 
 
+        //}
     }
 }

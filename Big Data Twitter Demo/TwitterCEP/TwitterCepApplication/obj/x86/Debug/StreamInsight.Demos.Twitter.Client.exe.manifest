@@ -175,7 +175,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>lGZrrA8203Bx/Izm/b5WvS/5z7w=</dsig:DigestValue>
+        <dsig:DigestValue>9qbHBmWuAml9ZurvDFQjxnWFtvg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -187,7 +187,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>VDHWiUkdO8RCVMQ2XtOC0wLaWqA=</dsig:DigestValue>
+        <dsig:DigestValue>Z+TU8zP1c+CZzv+2mlN90M9M0lM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -431,13 +431,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="StreamInsight.Demos.Twitter.Client.exe.config" size="4420">
+  <file name="StreamInsight.Demos.Twitter.Client.exe.config" size="4337">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>L90GV9ba1mLb+FlieDuBf+OSwds=</dsig:DigestValue>
+      <dsig:DigestValue>jnSlA4qiPugos1FpAJarZZksU+k=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

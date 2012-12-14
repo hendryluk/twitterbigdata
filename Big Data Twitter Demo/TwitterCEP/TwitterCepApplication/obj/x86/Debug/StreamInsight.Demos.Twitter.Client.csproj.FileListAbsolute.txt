@@ -14,3 +14,19 @@ C:\Users\andrmoll\Documents\Vu Project\Big Data Demo\TwitterCEP\TwitterCEPApplic
 C:\Users\andrmoll\Documents\Vu Project\Big Data Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\StreamInsight.Demos.Twitter.Client.application
 C:\Users\andrmoll\Documents\Vu Project\Big Data Demo\TwitterCEP\TwitterCEPApplication\obj\x86\Debug\StreamInsight.Demos.Twitter.Client.exe.manifest
 C:\Users\andrmoll\Documents\Vu Project\Big Data Demo\TwitterCEP\TwitterCEPApplication\obj\x86\Debug\StreamInsight.Demos.Twitter.Client.application
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\StreamInsight.Demos.Twitter.Client.exe.config
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\obj\x86\Debug\StreamInsight.Demos.Twitter.Client.exe
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\obj\x86\Debug\StreamInsight.Demos.Twitter.Client.pdb
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\obj\x86\Debug\StreamInsight.Demos.Twitter.Client.csprojResolveAssemblyReference.cache
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\StreamInsight.Demos.Twitter.Client.exe.manifest
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\StreamInsight.Demos.Twitter.Client.application
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\StreamInsight.Demos.Twitter.Client.exe
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\StreamInsight.Demos.Twitter.Client.pdb
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\StreamInsight.Demos.Twitter.Common.dll
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\System.Web.dll
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\Fleck.dll
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\bin\Debug\StreamInsight.Demos.Twitter.Common.pdb
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\obj\x86\Debug\StreamInsight.Demos.Twitter.Client.exe.manifest
+C:\Users\andrmoll\Desktop\Big Data Twitter Demo\twitterbigdata\Big Data Twitter Demo\TwitterCEP\TwitterCEPApplication\obj\x86\Debug\StreamInsight.Demos.Twitter.Client.application
